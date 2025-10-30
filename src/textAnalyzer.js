@@ -40,4 +40,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { readTextFile, countWords, findLongestWord, countLines };
+module.exports = { readTextFile, countWords, findLongestWord, countLines, tokenizeWords };
