@@ -1,0 +1,26 @@
+{
+  "name": "file-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devin0076/File-Processing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devin0076/File-Processing/issues"
+  },
+  "homepage": "https://github.com/Devin0076/File-Processing#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
